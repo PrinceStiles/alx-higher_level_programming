@@ -63,3 +63,7 @@ class Rectangle:
     def __repr__(self):
         """Returns print rectangle as reproduced object"""
         return "Rectangle({:d}, {:d})".format(self.width, self.height)
+
+    def __del__(self):
+        """Prints msg when instance of Rectangle is deleted"""
+        print("Bye rectangle...")

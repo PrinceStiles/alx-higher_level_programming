@@ -3,6 +3,7 @@
      Class for defining a rectangle
 """
 
+
 class Rectangle:
     """Defines a rectangle"""
     pass

@@ -1,4 +1,4 @@
-# 0x12. Javascript - Warm up
+# 0x12. Javascript - Warm-up
 
 ## Learning Objectives
 ###### General
@@ -16,7 +16,7 @@
 * What does a function that does not use any ```return``` statement return
 * Scope of variables
 * What are the arithmetic operators and how to use them
-* How to manipulate dictionary
+* How to manipulate a dictionary
 * How to import a file
 
 
